@@ -5,7 +5,8 @@ I use CubeMX to initialize the peripherals of MCU and generate the code for all 
 Then I use a ssd1306 Driver Library with Fonts based on stm32's hardware IIC
 Sorry i forgot where i found it :(
 
-I use a key scanning method from here: https://blog.51cto.com/13719208/
+I use a key scanning method from here: 
+>https://blog.51cto.com/13719208/
 
 Then i wrote my own menu interfaces and functional blocks.
 I use DAC with DMA to generate a sine waveform based on 256-points sinetable.
